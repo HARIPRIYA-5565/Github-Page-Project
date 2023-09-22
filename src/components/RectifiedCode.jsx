@@ -1,3 +1,8 @@
+// <span> is used for styling text,inline formatting within block 
+// inline element cannot wrap block level element
+// <a> tag has a attribute that is href=""
+//  <a> tag  is used in button tag because as in the page  on clicking on button  there is another page opened tho we are not using any functionality of javascript meanwhile we have given <a> in button thos if we use javascript functionality then only button tag is sufficient 
+
 function RectifiedCode(){
     return(
    <> <div className="  max-w-7xl mx-auto">
